@@ -1,7 +1,3 @@
-#Şevval Alp 150119815
-#Reyyan Rana İnan 150119723
-#Melih Sinan Çubukçuoğlu 150122828
-# find the oldest file under current working directory
 
 if [ $# -eq 0 ] #checking if user gave an argument file to delete directly if not
         then
